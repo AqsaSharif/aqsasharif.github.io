@@ -3,34 +3,34 @@ repository: AqsaSharif/aqsasharif.github.io
 #favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Safia Fatima
+name:  Aqsa Sharif
 title: Lecturer
-email: safia.fatima@nu.edu.pk
-#Resume: [here](SafiaFatimaResume.pdf).
+email: aqsasharif19@gmail.com
+#Resume: [here](AqsaSharif_Resume.pdf).
 website: https://aqsasharif.github.io
 
 darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  SafiaFatima
+# github_username:  AqsaSharif
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
-instagram_username: safia.rana.9
-linkedin_username: SafiaFatima
+instagram_username: physio.health20
+linkedin_username: aqsasharif
 #xing_username: jekyll
 #pinterest_username: jekyll
-#youtube_username: jekyll
+youtube_username: UCoBDc8d6FEZfT--65_IhipQ
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Google Scholar
-  icon: fa-google
-  url: https://scholar.google.com/citations?user=Lg7o8R8AAAAJ&hl=en
+# additional_links:
+#- title: Google Scholar
+#  icon: fa-google
+#  url: https://scholar.google.com/citations?user=Lg7o8R8AAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,14 +45,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an MS Computer Science Graduate, researcher, and also working as a Lecturer in [FAST NUCES](http://pwr.nu.edu.pk/cs-faculty-profile/?cs-profile=45). My area of research includes
-    - Medical Imaging
-    - Artificial Intelligence
-    - Semantic Segmentation
-    - Bioinformatics
+  I am an Physio Therapist student and researcher in [NCS University System](http://ncs.edu.pk/). My area of research includes
+    - Musculoskeletal
+    - Neuro-Physiotherapy 
     
 
-  Here is the [link](SafiaFatimaResume.pdf) to my resume.
+  Here is the [link](AqsaSharif_Resume.pdf) to my resume.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -65,12 +63,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Key Achievements & Duties  #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    - **Sports Head** - NUCES, Pakistan - January 2020-To Date
-    - **Faculty Head ACM-Student Chapter** - NUCES, Pakistan - January 2020-To Date
-    - **Learning to Teach Online Certification** - Coursera - July 2020-August 2020
-    - **2 Bronze Medal (BSCS)** - NUCES, Pakistan - August 2012-May 2016
-    - **Android Development Certification** - NUCES, Pakistan - August 2012-May 2016
-    - **Vice-chairperson and International Member of ACM-Student Chapter** - NUCES, Pakistan - August 2012-May 2016
+    - **1x Deans List and 2x Rector List Certifications** - NCS University System, Pakistan - August 2016-June 2021
+    - **Winner of Speech Competition** -I slamia College, Pakistan - August 2014
+    - **4x50 Meter Relay Race** - Saint Francis High School, Pakistan - August 2014
+
 # Footer
 footer_show_references: true
 

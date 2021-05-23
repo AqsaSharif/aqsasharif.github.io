@@ -1,21 +1,12 @@
 # Experience template
 - layout: left
-  company: NUCES, Pakistan
-  link: https://nu.edu.pk/
-  job_title: Lecturer
-  dates: July 2020 - Present
+  company: Physio health by Dr. Aqsa 
+#  link: https://www.youtube.com/channel/UCoBDc8d6FEZfT--65_IhipQ
+  job_title: YouTube Channel
+  dates: April 2021 - Present
  
   description: | # this will include new lines to allow paragraphs
-    - Promoted under the Computer Science Department as a Lecturer.
-    - Teaching courses including 'Object-Oriented Programming' and 'Software Analysis & Design' in Fall 2020.
-    - Supervising CS undergraduate students for their final capstone project in the fields of computer vision, deep learning, and time series analysis.
-- layout: left
-  company: NUCES, Pakistan
-  link: https://nu.edu.pk/
-  job_title: Lab Instructor
-  dates: January 2018 - July 2020
- 
-  description: | # this will include new lines to allow paragraphs
-    - Worked under the Computer Science Department as a Lab Instructor.
-    - Involved teaching courses including Introduction to Computing, Programming Fundamentals, and Digital Logic Design.
-    - Gained skills in SQL, Python and C++ programming languages.
+    - This channel is for educational purpose and it covers different topics related to physical therapy profession. 
+    - Mostly neurological and musculoskeletal conditions are discussed in detail.
+    - Lectures include objective and subjective examination, and as well as management which can help physical therapy students.
+
